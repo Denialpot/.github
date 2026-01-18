@@ -8,7 +8,7 @@ We welcome the contribution of external security researchers.
 
 ## Scope
 
-If you believe you’ve found a security issue in any software,
+If you believe you’ve found a security issue in any software
 service,
 or website governed by remark,
 we encourage you to notify us.
